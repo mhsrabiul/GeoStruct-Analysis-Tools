@@ -44,7 +44,7 @@ These tools help automate soil classification based on various geotechnical prop
 ### Soil Classification and Analysis Tool
 1. Run the script:
     ```bash
-    python soil_classification_tool.py
+    python Geo_toolkit.py
     ```
 2. Input your grain size distribution, Atterberg limits, and moisture content as prompted.
 3. View the soil classification and the generated grain size distribution curve.
@@ -52,7 +52,7 @@ These tools help automate soil classification based on various geotechnical prop
 ### Structural Material Optimization Tool
 1. Run the script:
     ```bash
-    python material_optimization_tool.py
+    python Struc_toolkit.py
     ```
 2. Input material properties, loads, and initial structural dimensions.
 3. Review the optimized dimensions and the trade-off analysis between cost and material usage.
